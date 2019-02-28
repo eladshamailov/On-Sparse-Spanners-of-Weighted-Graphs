@@ -16,9 +16,13 @@ Implementation of article named On Sparse Spanners of Weighted Graphs by Ingo Al
 [………………………………Experiment 2 …………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#experiment-2--test-with-stretch-factor-1-and-constant-weight)
 
 [………………………………Experiment 3 …………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#experiment-3--test-with-stretch-factor-1-and-random-weight)
+
 [………………………………Experiment 4 …………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#experiment-4--test-with-changing-density)
+
 [………………………………Experiment 5 …………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#experiment-5--test-with-changing-weight)
+
 [………………………Conclusions and directions for future work …………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#conclusions-and-directions-for-future-work)
+
 [………………………………Bibliography …………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#bibliography)
 
 ### Introduction
