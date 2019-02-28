@@ -5,13 +5,13 @@ Implementation of article named On Sparse Spanners of Weighted Graphs by Ingo Al
 
 ### Table Of Continent
 
-Introduction……………………………………………………………….2
+[Introduction………………………………………………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#introduction)
 
-The Algorithm……………………………………………………………..3
+The Algorithm……………………………………………………………
 
-Implementation…………………………………………………………...4
+Implementation…………………………………………………………
 
-Experiment 1 ….…………………………………………………………5-6
+Experiment 1 ….…………………………………………………………
 
 Experiment 2 ……………………………………………………….……7-8
 
