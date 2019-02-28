@@ -35,8 +35,6 @@ Let G = (V,E) be a connected n-vertex graph with arbitrary positive edge weights
 This algorithm gives us a spanner which is sparse in size and also sparse in weight.
 
 
-
-
 #
 ### The Algorithm
 
