@@ -5,22 +5,21 @@ Implementation of article named On Sparse Spanners of Weighted Graphs by Ingo Al
 
 ### Table Of Continent
 
-[Introduction………………………………………………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#introduction)
+[………………………………Introduction…………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#introduction)
 
-The Algorithm……………………………………………………………
+[………………………………The Algorithm…………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#the-algorithm)
 
-Implementation…………………………………………………………
+[………………………………Implementation…………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#implementation-of-the-algorithm)
 
-Experiment 1 ….…………………………………………………………
+[………………………………Experiment 1 …………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#experiment-1--test-the-relationship-between-the-stretch-factor-and-the-number-of-edges-in-the-spanner)
 
-Experiment 2 ……………………………………………………….……7-8
+[………………………………Experiment 2 …………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#experiment-2--test-with-stretch-factor-1-and-constant-weight)
 
-Experiment 3 ……………………………………………………………9-12
-
-Experiment 4 ……………………………………………………………13-14
-
-Experiment 5 ……………………………………………………………15-17
-
+[………………………………Experiment 3 …………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#experiment-3--test-with-stretch-factor-1-and-random-weight)
+[………………………………Experiment 4 …………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#experiment-4--test-with-changing-density)
+[………………………………Experiment 5 …………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#experiment-5--test-with-changing-weight)
+[………………………Conclusions and directions for future work …………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#conclusions-and-directions-for-future-work)
+[………………………………Bibliography …………………………](https://github.com/eladshamailov/On-Sparse-Spanners-of-Weighted-Graphs/blob/master/README.md#bibliography)
 
 ### Introduction
 
@@ -30,11 +29,6 @@ This algorithm purpose is finding a t-spanner for weighted graph.
 Let G = (V,E) be a connected n-vertex graph with arbitrary positive edge weights. A subgraph G&#39; = (V,E&#39;) is a t-spanner if, between any pair of vertices, the distance in G&#39; is at most t times longer than the distance in G. The value of t is the stretch factor associated with G&#39; .
 
 This algorithm gives us a spanner which is sparse in size and also sparse in weight.
-
-
-
-
-
 
 
 
